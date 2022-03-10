@@ -16,4 +16,4 @@ st->op1->cond
 cond(yes)->io->e
 cond(no)->para
 para(path1, bottom)->sub1(right)->op1
-para(path2, top)->op1 
+para(path2, top)->op1
