@@ -1,6 +1,4 @@
 # Todays Log
- >created an GitHub account
- >created an SSH Key
- >>added sshkey to github
-     <stamp> using Git bash
-     <ins> another way of doing
+   | Topic| Date | Time Spent | comments | 
+| :------- | ----: | :---: | ----------------------------: |
+| EC2 | 3/10/2022 | 2 hrs | compeleted |
